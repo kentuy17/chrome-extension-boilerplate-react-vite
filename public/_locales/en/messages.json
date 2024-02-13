@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Tab Renamer",
+    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "Budol2x Tab Renamer",
+    "message": "Budol2x Tab Renamer"
+  }
+}
